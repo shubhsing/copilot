@@ -1,4 +1,4 @@
-# Copilot : Driving assistance on mobile devices
+
 ### Lane and obstacle detection for active assistance during driving.
 
 
